@@ -9,27 +9,34 @@
         body{
             background-color: black;
         }
-        #main-banner {
-            padding: 0;
-            width: 100vp;
-            height: 100vw;
+        #container{
             background-image: url(imagens/espaco.jpg);
+            background-size: 100% 100%;
             position: relative;
+            height: 96vh;
+            padding: 0px;
+            
         }
-        #main-banner-content {
-           position: absolute;
-           background-position: bottom;
+
+        #conteudo{
+            background-image: url(imagens/astronauta.png);
+            background-size: 100% 100%;
+            position: absolute;
+            height: 200px;
+            width: 400px;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            
         }
 
     </style>
 </head>
 <body>
-    <div id="main-banner">
-        
-        <div id="main-banner-content">
-            <img src="imagens/astronauta.png"/>
-        </div>
-        
-    </div>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
 </body>
 </html>
