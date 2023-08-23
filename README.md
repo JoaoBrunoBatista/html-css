@@ -24,4 +24,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <a href="https://joaobrunobatista.github.io/html-css/exercicios/ex015/index.html">Executar o exercício 015</a> <br>
 <a href="https://joaobrunobatista.github.io/html-css/exercicios/ex015/pagina02.html">Executar o exercício 015b</a> <br>
 <a href="https://joaobrunobatista.github.io/html-css/exercicios/ex015/style.css">Executar o exercício 015c</a> <br>
-<a href="https://joaobrunobatista.github.io/html-css/exercicios/ex016/">Executar o exercício 016</a> <br>
+<a href="https://joaobrunobatista.github.io/html-css/exercicios/ex016/cor01.html">Executar o exercício 016</a> <br>
+<a href="https://joaobrunobatista.github.io/html-css/exercicios/ex016/cor02.html">Executar o exercício 016b</a> <br>
+<a href="https://joaobrunobatista.github.io/html-css/exercicios/ex016/cor03.html">Executar o exercício 016c</a> <br>
+<a href="https://joaobrunobatista.github.io/html-css/exercicios/ex016/style.css">Executar o exercício 016d</a> <br>
